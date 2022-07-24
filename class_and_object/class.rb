@@ -1,3 +1,5 @@
+# class should start with caps
+
 class Book
  
     
